@@ -59,3 +59,4 @@ docs/_build/
 test.ipynb
 
 tests/*.py
+pt
